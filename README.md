@@ -65,3 +65,7 @@ Don't forget to star the repo 🌟😉
 
 1. The profile screen is a static screen.
 2. Notification in the homepage and settings icons in profile page are not functional. Their functionalities are work in progress.
+
+## Source and attribution
+
+This independent repository is a copy of [morikeli/watchdog-mobile-app](https://github.com/morikeli/watchdog-mobile-app). The original Git commit history, authorship, and existing license notices have been preserved. Credit for the original project belongs to its original authors and contributors. This copy is maintained by [georges-mars](https://github.com/georges-mars).
